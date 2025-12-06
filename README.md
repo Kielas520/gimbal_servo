@@ -1,2 +1,0 @@
-# gimbal_servo
-servo_on_esp32_using_idf
